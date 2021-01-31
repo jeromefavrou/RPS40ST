@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RPS40ST	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+SetOffset	KEYWORD2
+SetCalibrate	KEYWORD2
+Init   KEYWORD2
+Tare    KEYWORD2
+ReadWeight    KEYWORD2
+ReadAverageWeight KEYWORD2
+ReadTension KEYWORD2
+######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
